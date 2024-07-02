@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lecuyalex
 
-- 🌱 I’m currently learning c#
 
 
 <!---
